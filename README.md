@@ -9,6 +9,7 @@ Model Details
     - Venue (encoded using Label Encoder)
 - Trained on: 3,000+ Men's T20 cricket matches
 - Average error: 11 runs
+  
 
 Code and Dependencies
 - Python 3.x
