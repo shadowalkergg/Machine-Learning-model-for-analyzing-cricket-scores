@@ -7,7 +7,7 @@ from sklearn.svm import SVR
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error
 
-file_path = r"download folder"
+file_path = r"location of the dataset"
 files = os.listdir(file_path)
 
 def process_cricket_json(file_path):
